@@ -50,5 +50,10 @@ I use this GitHub to store coursework, technical experiments, and projects that 
 - Turn experiments into reusable knowledge
 - Improve workflow over time, not just code
 
+## Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Haafzd/Haafzd/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 ## Connect
 - Instagram: <https://instagram.com/Haafzd>
