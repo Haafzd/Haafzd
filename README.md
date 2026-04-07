@@ -17,20 +17,50 @@ I use this GitHub to store coursework, technical experiments, and projects that 
 - Project-based learning
 
 ## Highlight Repositories
-- **assist-core**  
-  Private knowledge/core repository for workflows, lessons learned, and continuous improvement.
+<table>
+<tr>
+<td width="50%">
 
-- **CORELASI_MOBILE**  
-  One of the main mobile projects worth highlighting.
+### assist-core
+Private knowledge/core repository for workflows, lessons learned, and continuous improvement.
 
-- **CORELASI_WEB**  
-  One of the main web projects that represents my current work.
+</td>
+<td width="50%">
 
-- **PMB-KPL**  
-  A project worth showing as part of my stronger repository set.
+### CORELASI_MOBILE
+One of the main mobile projects worth highlighting.
 
-- **DPBO**  
-  A useful record of technical learning and implementation.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### CORELASI_WEB
+One of the main web projects that represents my current work.
+
+</td>
+<td width="50%">
+
+### PMB-KPL
+A project worth showing as part of my stronger repository set.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### DPBO
+A useful record of technical learning and implementation.
+
+</td>
+<td width="50%">
+
+### More projects
+Other repositories remain available as learning archives, experiments, and coursework history.
+
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 <p>
