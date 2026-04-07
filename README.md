@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Habib 👋</h1>
+<h1 align="center">Hi, I'm Haafzd</h1>
 <p align="center">
   Building through coursework, experiments, and practical projects.
 </p>
 
 <p align="center">
-  <code>Web and mobile project builder</code>
+  <code>Web and mobile dev</code>
 </p>
 
 ## About Me
