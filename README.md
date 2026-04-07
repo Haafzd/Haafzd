@@ -1,44 +1,72 @@
-# Hi, I'm Habib
+<h1 align="center">Hi, I'm Habib 👋</h1>
+<p align="center">
+  Building through coursework, experiments, and practical projects.
+</p>
 
-Saya menggunakan GitHub ini untuk menyimpan project kuliah, eksperimen teknis, dan repository yang dipakai untuk belajar sambil membangun hal yang benar-benar jalan.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Web+and+mobile+project+builder;Learning+by+building+real+things;Automation%2C+workflow%2C+and+technical+experiments" alt="Typing SVG" />
+</p>
 
-## Fokus saat ini
-- web dan mobile development
-- automation dan workflow praktis
-- eksplorasi tooling dan project-based learning
+## About Me
+I use this GitHub to store coursework, technical experiments, and projects that help me learn by actually building things. Right now, I want this profile to look cleaner, more focused, and more representative of the work that matters most.
 
-## Highlight repositories
-- **assist-core**
-  - private knowledge/core repo untuk pembelajaran, workflow, dan improvement yang terus dirapikan
-- **CORELASI_MOBILE**
-  - project mobile yang layak dijadikan salah satu fokus utama
-- **CORELASI_WEB**
-  - project web yang jadi salah satu anchor portfolio
-- **PMB-KPL**
-  - project yang relevan untuk ditonjolkan di profil
-- **DPBO**
-  - repo yang menunjukkan jejak pembelajaran dan implementasi teknis
+## Current Focus
+- Web development
+- Mobile development
+- Automation and practical workflows
+- Project-based learning
 
-## Catatan repo di profil ini
-Tidak semua repository di akun ini diposisikan sebagai portfolio utama.
-Beberapa repo bersifat tugas, latihan, atau arsip pembelajaran per mata kuliah. Repo seperti itu tetap disimpan, tetapi fokus utama profil ini diarahkan ke repository yang paling representatif.
+## Highlight Repositories
+- **assist-core**  
+  Private knowledge/core repository for workflows, lessons learned, and continuous improvement.
 
-## Tech stack yang sering dipakai
-- C#
-- C++
-- Go
-- Java
-- Python
-- .NET
-- SQL Server
-- Oracle
-- GitHub Actions
-- Swagger
+- **CORELASI_MOBILE**  
+  One of the main mobile projects worth highlighting.
 
-## Kontak
+- **CORELASI_WEB**  
+  One of the main web projects that represents my current work.
+
+- **PMB-KPL**  
+  A project worth showing as part of my stronger repository set.
+
+- **DPBO**  
+  A useful record of technical learning and implementation.
+
+## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,git,github,githubactions" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+## Workflow and Learning Style
+- Build first, refine later
+- Keep projects practical
+- Turn experiments into reusable knowledge
+- Improve workflow over time, not just code
+
+## GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haafzd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haafzd&theme=tokyonight&hide_border=true&layout=compact" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Haafzd&theme=tokyonight&hide_border=true" />
+</p>
+
+## Contribution Graph
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+## Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haafzd&theme=tokyonight" />
+</p>
+
+## Connect
 - Instagram: <https://instagram.com/Haafzd>
-
-## GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=Haafzd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Haafzd&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haafzd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
