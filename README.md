@@ -12,7 +12,6 @@ I use this GitHub to store coursework, technical experiments, and projects that 
 
 ## Current Focus
 - Web development
-- Mobile development
 - Automation and practical workflows
 - Project-based learning
 
@@ -35,13 +34,13 @@ One of the main mobile projects worth highlighting.
 <tr>
 <td width="50%">
 
-### CORELASI_WEB
+### CORELASI_WEBPRO
 One of the main web projects that represents my current work.
 
 </td>
 <td width="50%">
 
-### PMB-KPL
+### Student-Admission-System
 A project worth showing as part of my stronger repository set.
 
 </td>
@@ -49,7 +48,7 @@ A project worth showing as part of my stronger repository set.
 <tr>
 <td width="50%">
 
-### DPBO
+### Job-Platform
 A useful record of technical learning and implementation.
 
 </td>
