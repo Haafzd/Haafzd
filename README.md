@@ -4,58 +4,58 @@
 </p>
 
 <p align="center">
-  <code>Web and mobile dev</code>
+  <code>Web and mobile dev</code> <code>Embedded & IoT</code>
 </p>
 
 ## About Me
 I use this GitHub to store coursework, technical experiments, and projects that help me learn by actually building things. Right now, I want this profile to look cleaner, more focused, and more representative of the work that matters most.
 
 ## Current Focus
-- Web development
+- Web development (Laravel, Flutter)
+- Embedded systems (ESP32, WS2812B, FastLED)
 - Automation and practical workflows
 - Project-based learning
 
 ## Highlight Repositories
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### assist-core
 Private knowledge/core repository for workflows, lessons learned, and continuous improvement.
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### CORELASI_MOBILE
-One of the main mobile projects worth highlighting.
+### CORELASI
+Mobile (Flutter) + Web (Laravel) — QR attendance, journals, BAP, API integration.
+*My own fork, different from [@musyf4x](https://github.com/musyf4x) original.*
+
+</td>
+<td width="33%">
+
+### Daughtering / Cahaya
+ESP32-based emotional reaction LED installation — 8 WS2812B strips, FastLED, bipolar state machine with overlapping Meledak / Mengalah / Netral / Titik Temu states.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### CORELASI_WEBPRO
-One of the main web projects that represents my current work.
-
-</td>
-<td width="50%">
+<td width="33%">
 
 ### Student-Admission-System
 A project worth showing as part of my stronger repository set.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### Job-Platform
 A useful record of technical learning and implementation.
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### More projects
-Other repositories remain available as learning archives, experiments, and coursework history.
+### Sitiwinangun Village Website
+Reference project — web desa built with CodeIgniter by [@ilhamridzuan](https://github.com/ilhamridzuan).
 
 </td>
 </tr>
@@ -68,9 +68,15 @@ Other repositories remain available as learning archives, experiments, and cours
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MCU-ESP32-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LED-WS2812B-00FF00?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Swagger-85EA2D?style=for-the-badge&amp;logo=swagger&amp;logoColor=black" />
 </p>
 
 ## Workflow and Learning Style
