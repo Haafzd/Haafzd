@@ -1,96 +1,45 @@
-<h1 align="center">Hi, I'm Haafzd</h1>
+<h1 align="center">Haafzd</h1>
 <p align="center">
-  Building through coursework, experiments, and practical projects.
+  <code>Backend-heavy fullstack</code> <code>AI / Cyber</code> <code>Embedded & IoT</code>
 </p>
 
-<p align="center">
-  <code>Web and mobile dev</code> <code>Embedded & IoT</code>
-</p>
+---
 
-## About Me
-I use this GitHub to store coursework, technical experiments, and projects that help me learn by actually building things. Right now, I want this profile to look cleaner, more focused, and more representative of the work that matters most.
+## About
 
-## Current Focus
-- Web development (Laravel, Flutter)
-- Embedded systems (ESP32, WS2812B, FastLED)
-- Automation and practical workflows
-- Project-based learning
+Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go), AI/ML pipelines, and embedded automation. Coursework, experiments, and practical projects live here.
 
-## Highlight Repositories
-<table>
-<tr>
-<td width="50%">
+---
 
-### assist-core
-Private knowledge/core repository for workflows, lessons learned, and continuous improvement.
+## Projects
 
-</td>
-<td width="50%">
+| Repo | Stack | What |
+|------|-------|------|
+| [CORELASI](https://github.com/musyaf4x/CORELASI) | React + Vue | attendance, journals, BAP, API |
+| [Website-Desa-Sitiwinangun](https://github.com/Haafzd/Website-Desa-Sitiwinangun) | CodeIgniter | Village website (ref fork) |
+| [Student-Admission-System](https://github.com/Haafzd/Student-Admission-System) | — | Admission workflow system |
+| [Job-Platform](https://github.com/Haafzd/Job-Platform) | — | Job listing & application platform |
 
-### CORELASI
-Mobile (Flutter) + Web (Laravel) — QR attendance, journals, BAP, API integration.
-*My own fork, different from [@musyf4x](https://github.com/musyf4x) original.*
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Student-Admission-System
-A project worth showing as part of my stronger repository set.
-
-</td>
-<td width="50%">
-
-### Job-Platform
-A useful record of technical learning and implementation.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Sitiwinangun Village Website
-Reference project — web desa built with CodeIgniter by [@ilhamridzuan](https://github.com/ilhamridzuan).
-
-</td>
-<td width="50%">
-
-### More projects
-Other repositories remain available as learning archives, experiments, and coursework history.
-
-</td>
-</tr>
-</table>
-
-## Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
-</p>
+## Tech
 
 <p>
-  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/MCU-ESP32-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/LED-WS2812B-00FF00?style=for-the-badge" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Swagger-85EA2D?style=for-the-badge&amp;logo=swagger&amp;logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,laravel,flutter,git,github,githubactions" />
 </p>
 
-## Workflow and Learning Style
-- Build first, refine later
-- Keep projects practical
-- Turn experiments into reusable knowledge
-- Improve workflow over time, not just code
+**Platforms:** ESP32, WS2812B · **DB:** SQL Server, Oracle · **API:** Swagger
+
+---
 
 ## Contribution Graph
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Haafzd/Haafzd/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+---
+
 ## Connect
-- Instagram: <https://instagram.com/Haafzd>
+
+Instagram: [@Haafzd](https://instagram.com/Haafzd)
