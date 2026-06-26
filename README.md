@@ -1,6 +1,6 @@
 <h1 align="center">Haafzd</h1>
 <p align="center">
-  <code>Backend-heavy fullstack</code> <code>AI / Cyber</code> <code>Embedded & IoT</code>
+  <code>Backend-heavy fullstack</code>  <code>Embedded & IoT</code>
 </p>
 
 ---
@@ -16,9 +16,9 @@ Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go)
 | Repo | Stack | What |
 |------|-------|------|
 | [CORELASI](https://github.com/musyaf4x/CORELASI) | React + Vue | attendance, journals, BAP, API |
-| [Website-Desa-Sitiwinangun](https://github.com/Haafzd/Website-Desa-Sitiwinangun) | CodeIgniter | Village website (ref fork) |
-| [Student-Admission-System](https://github.com/Haafzd/Student-Admission-System) | — | Admission workflow system |
-| [Job-Platform](https://github.com/Haafzd/Job-Platform) | — | Job listing & application platform |
+| [Website-Desa-Sitiwinangun](https://github.com/Haafzd/Website-Desa-Sitiwinangun) | Laravel + Vite | Village website |
+| [Student-Admission-System](https://github.com/Haafzd/Student-Admission-System) | C# | Admission workflow system |
+| [Job-Platform](https://github.com/Haafzd/Job-Platform) | Java | Job listing & application platform |
 
 ---
 
