@@ -25,10 +25,9 @@ Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go)
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,laravel,flutter,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,laravel,flutter,git,github,githubactions,mysql,oracle,arduino" />
 </p>
 
-**Platforms:** ESP32, WS2812B · **DB:** SQL Server, Oracle · **API:** Swagger
 
 ---
 
