@@ -41,5 +41,5 @@ Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go)
 
 ## Connect
 
-Instagram: [@Haafzd](https://instagram.com/Haafzd)
+Instagram: [@Haafzd](https://instagram.com/Haafzd) \n
 LinkedIn: [Haafizd Alhabib Azwir](https://www.linkedin.com/in/haafzd/)
