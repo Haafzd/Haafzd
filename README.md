@@ -19,13 +19,13 @@ I use this GitHub to store coursework, technical experiments, and projects that 
 ## Highlight Repositories
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### assist-core
 Private knowledge/core repository for workflows, lessons learned, and continuous improvement.
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### CORELASI
 Mobile (Flutter) + Web (Laravel) — QR attendance, journals, BAP, API integration.
@@ -34,22 +34,30 @@ Mobile (Flutter) + Web (Laravel) — QR attendance, journals, BAP, API integrati
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### Student-Admission-System
 A project worth showing as part of my stronger repository set.
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### Job-Platform
 A useful record of technical learning and implementation.
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 ### Sitiwinangun Village Website
 Reference project — web desa built with CodeIgniter by [@ilhamridzuan](https://github.com/ilhamridzuan).
+
+</td>
+<td width="50%">
+
+### More projects
+Other repositories remain available as learning archives, experiments, and coursework history.
 
 </td>
 </tr>
