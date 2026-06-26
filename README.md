@@ -32,12 +32,6 @@ Mobile (Flutter) + Web (Laravel) — QR attendance, journals, BAP, API integrati
 *My own fork, different from [@musyf4x](https://github.com/musyf4x) original.*
 
 </td>
-<td width="33%">
-
-### Daughtering / Cahaya
-ESP32-based emotional reaction LED installation — 8 WS2812B strips, FastLED, bipolar state machine with overlapping Meledak / Mengalah / Netral / Titik Temu states.
-
-</td>
 </tr>
 <tr>
 <td width="33%">
