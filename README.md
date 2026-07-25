@@ -19,18 +19,40 @@ Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go)
 
 ## Projects
 
-| Repo | Stack | What |
-|------|-------|------|
-| [CORELASI](https://github.com/musyaf4x/CORELASI) | React + Vue | attendance, journals, BAP, API |
-| [Website-Desa-Sitiwinangun](https://github.com/Haafzd/Website-Desa-Sitiwinangun) | Laravel + Vite | Village website |
-| [Student-Admission-System](https://github.com/Haafzd/Student-Admission-System) | C# | Admission workflow system |
-| [Job-Platform](https://github.com/Haafzd/Job-Platform) | Java | Job listing & application platform |
+<table align="center">
+  <tr>
+    <th>Repo</th>
+    <th>Stack</th>
+    <th>What</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/musyaf4x/CORELASI">CORELASI</a></td>
+    <td>React + Vue</td>
+    <td>attendance, journals, BAP, API</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Haafzd/Website-Desa-Sitiwinangun">Website-Desa-Sitiwinangun</a></td>
+    <td>Laravel + Vite</td>
+    <td>Village website</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Haafzd/Student-Admission-System">Student-Admission-System</a></td>
+    <td>C#</td>
+    <td>Admission workflow system</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Haafzd/Job-Platform">Job-Platform</a></td>
+    <td>Java</td>
+    <td>Job listing & application platform</td>
+  </tr>
+</table>
+
 
 ---
 
 ## Tech
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,laravel,flutter,git,github,githubactions,mysql,arduino" />
 </p>
 
