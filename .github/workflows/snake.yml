@@ -29,17 +29,17 @@ jobs:
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
             assets/github-contribution-grid-snake.svg?palette=github-light
 
-      - name: Hide progress bar in SVGs
+      - name: Remove progress bar from SVGs
         run: |
           node -e "
           const fs = require('fs');
-          ['assets/github-contribution-grid-snake-dark.svg', 'assets/github-contribution-grid-snake.svg'].forEach(f => {
-            if (fs.existsSync(f)) {
-              let c = fs.readFileSync(f, 'utf8');
-              c = c.replace(/.u{/, '.u{display:none !important;');
-              fs.writeFileSync(f, c, 'utf8');
-            }
-          });
+          for (const f of ['assets/github-contribution-grid-snake-dark.svg', 'assets/github-contribution-grid-snake.svg']) {
+            if (!fs.existsSync(f)) continue;
+            let c = fs.readFileSync(f, 'utf8');
+            c = c.replace(/<rect class=\"u[^\"]*\"[^>]*\/>/g, '');
+            c = c.replace('viewBox=\"-16 -32 880 192\" width=\"880\" height=\"192\"', 'viewBox=\"-16 -32 880 150\" width=\"880\" height=\"150\"');
+            fs.writeFileSync(f, c, 'utf8');
+          }
           "
 
       - name: Commit and push to main
