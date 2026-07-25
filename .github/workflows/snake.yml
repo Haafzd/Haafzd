@@ -31,7 +31,16 @@ jobs:
 
       - name: Hide progress bar in SVGs
         run: |
-          sed -i 's/\.u[[:space:]]*{/\.u{display:none;/g' assets/*.svg
+          node -e "
+          const fs = require('fs');
+          ['assets/github-contribution-grid-snake-dark.svg', 'assets/github-contribution-grid-snake.svg'].forEach(f => {
+            if (fs.existsSync(f)) {
+              let c = fs.readFileSync(f, 'utf8');
+              c = c.replace(/.u{/, '.u{display:none !important;');
+              fs.writeFileSync(f, c, 'utf8');
+            }
+          });
+          "
 
       - name: Commit and push to main
         run: |
