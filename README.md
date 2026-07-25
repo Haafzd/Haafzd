@@ -34,7 +34,7 @@ Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go)
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Haafzd/Haafzd/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/Haafzd/Haafzd/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
