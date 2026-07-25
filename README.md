@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <h1 align="center">Haafzd</h1>
 <p align="center">
   <code>Backend-heavy fullstack</code>  <code>Embedded & IoT</code>
@@ -28,14 +34,6 @@ Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go)
   <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,laravel,flutter,git,github,githubactions,mysql,arduino" />
 </p>
 
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
 
