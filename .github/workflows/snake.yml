@@ -31,7 +31,7 @@ jobs:
 
       - name: Hide progress bar in SVGs
         run: |
-          sed -i 's/\.u{/\.u{display:none;/g' assets/*.svg
+          sed -i 's/\.u[[:space:]]*{/\.u{display:none;/g' assets/*.svg
 
       - name: Commit and push to main
         run: |
