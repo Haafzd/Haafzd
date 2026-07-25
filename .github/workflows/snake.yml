@@ -27,6 +27,10 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg?palette=github-light
 
+      - name: Hide progress bar in SVGs
+        run: |
+          sed -i 's/\.u{/\.u{display:none;/g' dist/*.svg
+
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
