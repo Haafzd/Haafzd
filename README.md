@@ -53,7 +53,7 @@ Build-first, refine-later engineer. Focus on backend systems (Laravel, .NET, Go)
 ## Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,laravel,flutter,git,github,githubactions,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,go,java,py,dotnet,laravel,flutter,git,github,githubactions,mysql,arduino,react" />
 </p>
 
 
